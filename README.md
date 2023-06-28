@@ -27,7 +27,7 @@ Please ensure that you have created a folder called "data" and mapped your file 
 ### Present insights
 Your manager would like you to summarise your findings within a single PowerPoint slide, so that they can present the results at the next board meeting. You should create visualisations and metrics to include within this slide, as well as clear and concise explanations in order to quickly provide the key points from your analysis. Use the “PowerPoint Template” provided to complete the slide.
 
-![task 1](BA_Task_1/Task1.jpg)
+
 
 ---
 # Task 2
